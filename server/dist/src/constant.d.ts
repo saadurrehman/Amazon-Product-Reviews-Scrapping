@@ -4,4 +4,4 @@ export declare const AMAZON_REVIEW_PAGE: {
     ALL_REVIEWS_BUTTON: string;
     ALL_REVIEW_PAGE: string;
 };
-export declare const REGEX_API_PATTERN: RegExp;
+export declare const REGEX_API_PATTERN: {};
