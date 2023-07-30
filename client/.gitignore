@@ -4,3 +4,4 @@
 !.vscode/launch.json
 node_modules
 .eslintcache
+.svelte-kit/

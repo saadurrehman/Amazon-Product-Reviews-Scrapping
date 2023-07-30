@@ -1,1 +1,1 @@
-export const BACKEND_PATH = 'http://localhost:3000/views';
+export const BACKEND_PATH = "http://loccalhost:3000/views";
